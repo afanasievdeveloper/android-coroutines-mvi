@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android-coroutines-mvi</string>
+    <string name="counter_text">Значение: %d</string>
+</resources>
